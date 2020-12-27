@@ -28,6 +28,7 @@ If you want to contribute to this list (please do), create a pull request.
 - [jq-web](https://github.com/fiatjaf/jq-web): the command-line JSON processor, compiled with emscripten and exposed as JavaScript library
 - [datalib](http://vega.github.io/datalib/): a JavaScript data utility library
 - [zebras](https://github.com/nickslevine/zebras): a data manipulation and analysis library written in JavaScript offering the convenience of pandas or R
+- [Danfojs](https://github.com/opensource9ja/danfojs): powerful javascript data analysis toolkit
 
 # Math/Statistics
 
