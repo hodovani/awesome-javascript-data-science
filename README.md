@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), create a pull request.
 - [Simple Statistics](https://simplestatistics.org/): Statistical methods in readable JavaScript for browsers, servers, and people
 - [jStat](http://jstat.github.io/): perform advanced statistical operations
 - [BigInteger.js](https://github.com/peterolson/BigInteger.js): is an arbitrary-length integer library for Javascript, allowing arithmetic operations on integers of unlimited size, notwithstanding memory and time limitations.
+- [Fraction.js](https://github.com/infusion/Fraction.js): is a rational number library written in JavaScript.
 
 # Machine learning
 
