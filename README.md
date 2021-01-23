@@ -6,6 +6,18 @@ science libraries from other languages are now available in the browser.
 
 If you want to contribute to this list (please do), create a pull request.
 
+## Contents
+
+- [Environments](#environments)
+- [Data Formats](#data-formats)
+- [Data Munging](#data-munging)
+- [Math and Statistics](#math-and-statistics)
+- [Machine learning](#machine-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Deep Learning](#deep-learning)
+- [Visualization](#visualization)
+- [Other languages](#other-languages)
+
 ## Environments
 
 - [HASH](https://hash.ai/) - Create and run multi-agent simulations in your browser.
@@ -30,7 +42,7 @@ If you want to contribute to this list (please do), create a pull request.
 - [zebras](https://github.com/nickslevine/zebras) - A data manipulation and analysis library written in JavaScript offering the convenience of pandas or R.
 - [Danfojs](https://github.com/opensource9ja/danfojs) - Powerful JavaScript data analysis toolkit.
 
-## Math/Statistics
+## Math and Statistics
 
 - [mathjs](https://mathjs.org/) - An extensive math library for JavaScript and Node.js.
 - [bluemath](https://github.com/bluemathsoft/bluemath) - Math kernel in JavaScript.
