@@ -1,4 +1,4 @@
-# Awesome JavaScript Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome JavaScript Data Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome libraries for doing data science in your
 browser or Node.js environment. That doesn't just mean Javascript: thanks to WebAssembly, many data
