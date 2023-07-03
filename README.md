@@ -62,6 +62,7 @@ If you want to contribute to this list (please do), create a pull request.
 
 ## Natural Language Processing
 
+- [Compromise](https://github.com/spencermountain/compromise) - Modest natural-language processing
 - [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for node.
 - [node-nlp](https://github.com/axa-group/nlp.js##readme) - A Fork of Natural with many additional capabilities.
 - [sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js.
