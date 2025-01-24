@@ -100,7 +100,7 @@ If you want to contribute to this list (please do), create a pull request.
 - [WebDNN](https://mil-tokyo.github.io/webdnn/) - Fastest DNN Execution Framework on Web Browser.
 - [brain.js](https://brain.js.org/) - Neural networks in JavaScript.
 - [torch-js](https://github.com/pytorch/torch-js) - An experimental port of the PyTorch API to JavaScript/TypeScript for Node.js (still in early development).  
-- [wasm-torch](https://github.com/abetlen/wasm-torch) - A WebAssembly port of PyTorch’s C++ backend, enabling inference in the browser or Node.
+- [wasm-torch](https://github.com/abetlen/wasm-torch) - A WebAssembly port of PyTorch's C++ backend, enabling inference in the browser or Node.
 
 ---
 
