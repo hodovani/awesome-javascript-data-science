@@ -18,6 +18,8 @@ If you want to contribute to this list (please do), create a pull request.
 - [Visualization](#visualization)
 - [Other languages](#other-languages)
 
+---
+
 ## Environments
 
 - [HASH](https://hash.ai/) - Create and run multi-agent simulations in your browser.
@@ -25,13 +27,18 @@ If you want to contribute to this list (please do), create a pull request.
 - [Runkit](https://runkit.com/home) - A Node Playground in your Browser.
 - [Iodide](https://alpha.iodide.io/) - Lets you do data science entirely in your browser.
 - [Carbide](https://alpha.trycarbide.com) - A Reactive JavaScript programming environment.
-- [Kaggle Notebooks](https://www.kaggle.com/kernels) - Run Analyses on Google Cloud using Python or R.
+- [Kaggle Notebooks](https://www.kaggle.com/kernels) - Run analyses on Google Cloud using Python or R.
+- [Starboard Notebooks](https://starboard.gg/) - Interactive JavaScript notebooks in your browser with minimal setup.  
+
+---
 
 ## Data Formats
 
 - [Papa Parse](https://www.papaparse.com/) - Powerful, in-browser CSV parser.
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - Parser and writer for various spreadsheet formats.
 - [Apache Arrow](https://github.com/apache/arrow/tree/master/js) - Enable big data systems to process and transfer data quickly.
+
+---
 
 ## Data Munging
 
@@ -41,6 +48,10 @@ If you want to contribute to this list (please do), create a pull request.
 - [datalib](http://vega.github.io/datalib/) - A JavaScript data utility library.
 - [zebras](https://github.com/nickslevine/zebras) - A data manipulation and analysis library written in JavaScript offering the convenience of pandas or R.
 - [Danfojs](https://github.com/opensource9ja/danfojs) - Powerful JavaScript data analysis toolkit.
+- [duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - DuckDB compiled to WebAssembly, letting you run fast SQL queries locally in the browser or Node.js.  
+- [Polars (WASM)](https://github.com/pola-rs/polars/tree/master/py-polars/polars-wasm) - Polars, a lightning-fast DataFrame library in Rust, compiled to WebAssembly for use in JS environments.
+
+---
 
 ## Math and Statistics
 
@@ -50,19 +61,24 @@ If you want to contribute to this list (please do), create a pull request.
 - [stdlib](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript, with an emphasis on numerical and scientific computing applications.
 - [Simple Statistics](https://simplestatistics.org/) - Statistical methods in readable JavaScript for browsers, servers, and people.
 - [jStat](http://jstat.github.io/) - Perform advanced statistical operations.
-- [BigInteger.js](https://github.com/peterolson/BigInteger.js) - Is an arbitrary-length integer library for JavaScript, allowing arithmetic operations on integers of unlimited size, notwithstanding memory and time limitations.
+- [BigInteger.js](https://github.com/peterolson/BigInteger.js) - Is an arbitrary-length integer library for JavaScript.
 - [Fraction.js](https://github.com/infusion/Fraction.js) - Is a rational number library written in JavaScript.
-- [fermat.ts](https://github.com/mathigon/fermat.js) - Is powerful mathematics and statistics library, containing everything from number theory to random numbers and linear algebra classes.
+- [fermat.ts](https://github.com/mathigon/fermat.js) - Powerful mathematics and statistics library, containing everything from number theory to random numbers and linear algebra classes.
 - [Simple Statistics](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics.
+
+---
 
 ## Machine learning
 
 - [mljs](https://github.com/mljs/ml) - Machine learning tools in JavaScript.
 - [machinelearn.js](https://www.machinelearnjs.com/) - Machine Learning library for the web and Node.
+- [ONNX Runtime Web](https://onnxruntime.ai/docs/api/javascript/) - Run ONNX models in browsers (via WebGL/WebAssembly) and Node.js.
+
+---
 
 ## Natural Language Processing
 
-- [Compromise](https://github.com/spencermountain/compromise) - Modest natural-language processing
+- [Compromise](https://github.com/spencermountain/compromise) - Modest natural-language processing.
 - [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for node.
 - [node-nlp](https://github.com/axa-group/nlp.js##readme) - A Fork of Natural with many additional capabilities.
 - [sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js.
@@ -73,6 +89,9 @@ If you want to contribute to this list (please do), create a pull request.
 - [Talisman](http://yomguithereal.github.io/talisman/) - A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript.
 - [Franc](https://github.com/wooorm/franc) - Natural language detection.
 - [Underscore.string](http://epeli.github.io/underscore.string/) - Not actually an NLP library, but a useful toolkit for working with strings in JavaScript.
+- [transformers.js](https://github.com/xenova/transformers.js) - Run Hugging Face Transformer models directly in JavaScript (browser or Node.js) using WebAssembly acceleration.
+
+---
 
 ## Deep Learning
 
@@ -80,6 +99,10 @@ If you want to contribute to this list (please do), create a pull request.
 - [ml5](https://ml5js.org/) - Friendly Machine Learning for the Web.
 - [WebDNN](https://mil-tokyo.github.io/webdnn/) - Fastest DNN Execution Framework on Web Browser.
 - [brain.js](https://brain.js.org/) - Neural networks in JavaScript.
+- [torch-js](https://github.com/pytorch/torch-js) - An experimental port of the PyTorch API to JavaScript/TypeScript for Node.js (still in early development).  
+- [wasm-torch](https://github.com/abetlen/wasm-torch) - A WebAssembly port of PyTorch’s C++ backend, enabling inference in the browser or Node.
+
+---
 
 ## Visualization
 
@@ -91,7 +114,12 @@ If you want to contribute to this list (please do), create a pull request.
 - [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers.
 - [Sigmajs](http://sigmajs.org/) - A JavaScript library dedicated to graph drawing.
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data. Crossfilter millions of records without latencies.
+- [Apache ECharts](https://echarts.apache.org/) - A powerful, highly customizable charting and visualization library, suitable for large datasets.  
+- [Observable Plot](https://github.com/observablehq/plot) - A high-level, experimental library for exploratory data visualization, from the creators of Observable.
+
+---
 
 ## Other languages
 
 - [Pyodide](https://github.com/iodide-project/pyodide) - The scientific Python stack, compiled to WebAssembly.
+- [PyScript](https://pyscript.net/) - A framework that allows you to run Python in the browser, built on top of Pyodide and WebAssembly.
